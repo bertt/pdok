@@ -2,6 +2,8 @@
 
 Amsterdam MBTile with PDOK vector tiles
 
+<a href="https://github.com/bertt/pdok/blob/master/mbtiles/amsterdam.mbtiles">https://github.com/bertt/pdok/blob/master/mbtiles/amsterdam.mbtiles</a>
+
 Source: https://geodata.nationaalgeoregister.nl/beta/topotiles-viewer/#8/52.33/5.19
 
 
