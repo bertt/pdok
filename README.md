@@ -8,6 +8,19 @@ Source vector tiles: https://geodata.nationaalgeoregister.nl/beta/topotiles-view
 
 GitHub vector tiles: https://github.com/PDOK/vectortiles-bgt-brt
 
+Data sources:
+
+```
+Dataset	Zoomlevel
+TOP1000NL	0 - 5
+TOP500NL	6 - 7
+TOP2500NL	8 - 9
+TOP100NL	10 - 11
+TOP50NL	12 - 13
+TOP10NL	14 - 15
+BGT	16 - 19
+```
+
 Cities available: 
 
 [Utrecht](mbtiles/utrecht.mbtiles) 
