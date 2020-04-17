@@ -25,10 +25,11 @@ Cities available:
 
 [Utrecht](mbtiles/utrecht.mbtiles), [Maastricht](mbtiles/maastricht.mbtiles), [The Hague](mbtiles/thehague.mbtiles), [Amsterdam](mbtiles/amsterdam.mbtiles), [Rotterdam](mbtiles/rotterdam.mbtiles) 
 
-NB: To retrieve the mbtile files from lfs use git lfs fetch:
+NB: To retrieve the mbtile files from lfs use:
 
 ```
-$ git lfs fetch
+$ git lfs install
+$ git lfs pull
 ```
 
 ## Desktop viewer
