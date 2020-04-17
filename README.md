@@ -4,11 +4,9 @@ MBTile files containing PDOK vector Tiles BRT en BGT for sample cities.
 
 Note: The vector tiles have been generated once for evaluation purposes and are not updated.
 
-<a href="https://github.com/bertt/pdok/blob/master/mbtiles/amsterdam.mbtiles">https://github.com/bertt/pdok/blob/master/mbtiles/amsterdam.mbtiles</a>
+Source vector tiles: https://geodata.nationaalgeoregister.nl/beta/topotiles-viewer/#8/52.33/5.19
 
-Source: https://geodata.nationaalgeoregister.nl/beta/topotiles-viewer/#8/52.33/5.19
-
-GitHub: https://github.com/PDOK/vectortiles-bgt-brt
+GitHub vector tiles: https://github.com/PDOK/vectortiles-bgt-brt
 
 Cities available: 
 
