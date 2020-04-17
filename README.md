@@ -20,6 +20,10 @@ Cities available:
 
 [Rotterdam](mbtiles/rotterdam.mbtiles) 
 
+NB: To retrieve the mbtile files from lfs use git flfs fetch:
+
+$ git lfs fetch
+
 ## Desktop viewer
 
 Install MapTiler desktop https://www.maptiler.com/desktop/ and open MBTile file to visualize
