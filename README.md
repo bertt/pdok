@@ -22,7 +22,9 @@ Cities available:
 
 NB: To retrieve the mbtile files from lfs use git flfs fetch:
 
+```
 $ git lfs fetch
+```
 
 ## Desktop viewer
 
